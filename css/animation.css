@@ -1,0 +1,24 @@
+
+
+@keyframes sliderBlock {
+  0% {
+   margin-right: 19999px;
+  }
+  100% {
+
+  }
+  
+  
+}
+
+@keyframes header {
+  0% {
+     margin-left: 9999px;
+  }
+  100% {
+ 
+  }
+  
+  
+}
+

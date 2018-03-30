@@ -1,0 +1,172 @@
+body{
+ 
+	margin:0;
+	padding:0; 
+	background-color: #0e1382;
+    scroll-behavior: smooth;
+
+
+}
+
+.header{
+    line-height: 3;
+	  	 animation-name: header;
+    animation-duration: 2s;
+}
+.navbar {
+	  background-color: #6d6ddc;
+}
+.logo{
+	    font-size: 27px;
+    margin-bottom: 18px;
+}
+ul{
+	  background-color: #497ae2;
+    border-radius: 16px;
+    line-height: 3;
+}
+li{
+    margin-left: 7px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.logtxt{
+    font-size: 39px;
+    font-weight: 400;
+}
+.sliderBlock{
+   /*     border-bottom: solid 1px #bae3ff;*/
+    padding-bottom: 60px;
+  /*  padding-top: 58px;*/
+     	 animation-name: sliderBlock;
+    animation-duration: 1.5s;
+}
+.silderWidth{
+   /* border-bottom: solid 1px #bae3ff;*/
+ 
+}
+.continer-fluid  {
+	    background-color: #5454ce;
+}
+.title1{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 54px;
+    padding-top: 67px;
+	
+   
+  
+}
+.sliderBlockEnd{
+     text-align: center;
+    margin-top: -88px;
+    position: relative;
+}
+
+.carousel-indicators{
+	        margin-bottom: 61px;
+}
+
+.card-group{
+	    border-bottom: solid 1px #579fd2;
+    padding-bottom: 107px;
+    padding-top: 50px;
+}
+#carouselExampleIndicators{
+	   border-bottom: solid 1px #579fd2;
+    padding-bottom: 107px;
+    padding-top: 50px;
+}
+.cardBlock{
+	 /*   display: flex;
+    justify-content: center;*/
+	     padding-bottom: 91px;
+    padding-top: 50px;
+    /*  border-bottom: solid 1px #579fd2;*/
+}
+.card{
+	
+}
+.pageEnd{
+	background-color: #1e92a2;
+    font-size: 35px;
+    border-radius: 7px;
+    padding-bottom: -30px;
+}
+.CardBlockEnd{
+      text-align: center;
+    margin-top: -115px;
+    position: relative;
+}
+.CardimgBlock{
+	 display: flex;
+    justify-content: center;
+        padding-bottom: 107px;
+    padding-top: 50px;
+     /*  border-bottom: solid 1px #579fd2;*/
+}
+.imageCardBlockEnd{
+	    text-align: center;
+    margin-top: -133px;
+    position: relative;
+}
+.imgGrop{
+    margin-top: 41px;
+    margin-bottom: 44px;
+    display: flex;
+    justify-content: center;
+
+}
+.imgsize{
+	
+}
+.imgcarSize{
+	width:450px;
+	height:250px;
+	    margin-left: 13px;
+}
+.imgcarSize1{
+	width:450px;
+	height:250px;
+margin-left: 101px;
+}
+.carardSize1{
+    width: 222px;
+    height: 170px;
+}
+.cards{
+	    display: flex;
+    margin-bottom: 25px;
+}
+.contactBlock{
+	margin-top: 40px;
+}
+.formlogin{
+       width: 300px;
+    margin-left: 461px;
+}
+
+.borderLines{
+	     padding-bottom: 39px;
+    padding-top: 50px;
+      /* border-bottom: solid 1px #579fd2;*/
+}
+.content2{
+	margin:0;
+	    margin-bottom: 30px;
+}
+form{
+    margin-left: 456px;
+    /* margin-bottom: -58px; */
+    margin-top: -288px;
+}
+.footer{
+	
+}
+
+
+
+
+
